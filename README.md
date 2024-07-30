@@ -1,6 +1,7 @@
 # Perdue-reaserch
 
 https://www.niche.com/colleges/purdue-university/
+<br/>
 https://www.perdue.com/
 
 ![image](https://github.com/user-attachments/assets/3f2757ce-b8ff-44c4-8f8c-0436bdd09e55)
@@ -8,6 +9,11 @@ https://www.perdue.com/
 ## Description
 Purdue is a highly rated public university located in Wabash Township, Indiana. It is a large institution with an enrollment of 36,484 undergraduate students. Admissions is fairly competitive as the Purdue acceptance rate is 53%. Popular majors include Business, Computer Science, and Mechanical Engineering. Graduating 83% of students, Purdue alumni go on to earn a starting salary of $44,800.
 
+<details>
+
+<summary> <h1>Academics and Admissions</h1></summary>
+<br/>
+<ul>
 
 ## Purdue University Rankings
 Niche rankings are based on rigorous analysis of key statistics from the U.S. Department of Education and millions of reviews.
@@ -60,6 +66,26 @@ Top Public Universities in America
 ![image](https://github.com/user-attachments/assets/e78142e0-5181-479c-bbf2-ca411e25a822)
 
 ![image](https://github.com/user-attachments/assets/ab58c603-dbf4-412c-9458-20ae52353be3)
+
+</ul>
+
+</details>
+
+
+
+<-- next thingy -->
+
+
+
+
+
+
+
+<details>
+
+<summary> <h1>Academics and Admissions</h1></summary>
+<br/>
+<ul>
 
 
 
