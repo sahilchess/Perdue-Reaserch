@@ -1,5 +1,5 @@
 # Purdue Universty reaserch
-# [Perdue Website](https://www.purdue.edu/)
+# [Purdue Website](https://www.purdue.edu/)
 # [Niche](https://www.niche.com/colleges/purdue-university/)
 
 
@@ -84,7 +84,7 @@ Top Public Universities in America
 <summary> <h1>Computer Science</h1></summary>
 <br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E8x-5oSm1_s?si=hm2RoLS4Fhl-yKtO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Purdue Computer Science](https://img.youtube.com/vi/VIDEO_ID/0.jpg)(https://youtu.be/E8x-5oSm1_s)
 
 
 
