@@ -1,8 +1,14 @@
-# Perdue-reaserch
+# Purdue Universty reaserch
 
-https://www.niche.com/colleges/purdue-university/
+# [Niche](https://www.niche.com/colleges/purdue-university/)
 <br/>
-https://www.perdue.com/
+# sjadosjald
+
+
+<br/>
+<br/>
+
+
 
 ![image](https://github.com/user-attachments/assets/3f2757ce-b8ff-44c4-8f8c-0436bdd09e55)
 
@@ -73,7 +79,6 @@ Top Public Universities in America
 
 
 
-<-- next thingy -->
 
 
 
@@ -83,8 +88,13 @@ Top Public Universities in America
 
 <details>
 
-<summary> <h1>Academics and Admissions</h1></summary>
+<summary> <h1>All About Perdue</h1></summary>
 <br/>
+
+
+
+
+
 <ul>
 
 
