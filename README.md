@@ -1,6 +1,7 @@
 # Purdue Universty reaserch
 # [Purdue Website](https://www.purdue.edu/)
 # [Niche](https://www.niche.com/colleges/purdue-university/)
+# [Purdue Hackers](https://www.purduehackers.com/)
 
 
 ![image](https://github.com/user-attachments/assets/3f2757ce-b8ff-44c4-8f8c-0436bdd09e55)
