@@ -84,7 +84,35 @@ Top Public Universities in America
 <summary> <h1>Computer Science</h1></summary>
 <br/>
 
-[![Purdue Computer Science](https://img.youtube.com/vi/VIDEO_ID/0.jpg)(https://youtu.be/E8x-5oSm1_s)
+## [Purdue CS Tour Video](https://youtu.be/E8x-5oSm1_s)
+
+## Introduction
+
+It’s hard to imagine an industry that hasn’t been transformed by computer science. From big data to security – from mobile apps to healthcare software – computer scientists’ work affects millions of people.
+
+Housed within the College of Science, Purdue’s Department of Computer Science is the world’s oldest existing computer science department. You’ll join a department with a legacy of innovation in both advancing scientific research and creating industry applications. Here, you’ll learn the fundamentals of computer science so that your skills can evolve as the field changes in exciting and dynamic ways.
+
+
+### Curriculum
+First, you’ll learn the foundations of computing in six core computer science courses.
+Then, you can customize your degree by specializing in one or more tracks – different areas of computer science in which you can learn and grow.
+
+   Computational Science and Engineering
+   Computer Graphics and Visualization
+   Database and Information Systems
+   Foundations of Computer Science
+   Machine Learning and Artificial Intelligence
+   Programming Languages
+   Security
+   Software Engineering
+   Systems Programming
+   
+Have a lot of interests? No problem. Their flexible curriculum allows students to pursue interdisciplinary work such as a second major or minor. Many students double major in math, statistics, and data science.
+
+
+### Student Life
+There is a strong sense of community in Purdue’s Computer Science program. We’ve designed many resources to help you succeed, like the Bridge Program (which can introduce you to coding the summer before your freshman year begins) and the Computer Science Learning Community (where you’ll live and learn with your CS freshman peers in Purdue’s residence halls).
+
 
 
 
